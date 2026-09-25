@@ -226,4 +226,4 @@ WinRAR Portable (Unplugged) is the full free version, providing all features and
 Download WinRAR Portable (Unplugged) now and simplify your file compression and extraction tasks today!
 
 ---
-**Last updated:** 2026-09-25 07:19:19 UTC
+**Last updated:** 2026-09-25 13:23:33 UTC
